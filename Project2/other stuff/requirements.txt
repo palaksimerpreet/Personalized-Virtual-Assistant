@@ -1,0 +1,16 @@
+requests
+beautifulsoup4
+Wikipedia-API
+gTTS
+pyowm
+pygame
+googletrans
+console
+playsound
+SpeechRecognition
+pyaudio
+opencv-python
+opencv-contrib-python
+Pillow
+numpy
+axju-jokes

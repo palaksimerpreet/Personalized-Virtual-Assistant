@@ -1,0 +1,32 @@
+To install Modules type in - 
+pip install -r "{Location of other stuff folder}\requirements.txt"
+
+ Modules to install (using pip)
+--------------------------------
+requests           - pip install requests
+bs4                - pip install beautifulsoup4
+wikipediaapi 	   - pip install Wikipedia-API
+gtts         	   - pip install gTTS
+pyowm.owm   	   - pip install pyowm
+pygame      	   - pip install pygame
+googletrans  	   - pip install googletrans
+console            - pip install console
+playsound    	   - pip install playsound
+speech_recognition - pip install SpeechRecognition
+pyaudio	           - pip install pyaudio
+opencv(2 installs) - pip install opencv-python
+		   - pip install opencv-contrib-python
+PIL		   - pip install Pillow
+numpy		   - pip install numpy
+jokes		   - pip install axju-jokes
+
+ Built-in Modules 
+------------------
+time
+os
+webbrowser
+random
+datetime
+urllib.request
+re
+io
